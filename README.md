@@ -6,3 +6,4 @@ MISY 631 - Business Intelligence and Analytics
   - ML, Python, Pandas, Keras, TensorFlow, Artificial neural Networks
 BUAD 621 - Decision Analytics and Visualization
   - R programming Language, RStudio, ggplot2 , TensorFlow
+  - text www.causact.com
