@@ -1,6 +1,8 @@
 # Author : Sunil Mathur
 # This code is part of the course curriculum for MS - Data Science at University of Delaware
-# Purpose : get the course files from the server
+# BUAD621 - Decision Analytics and Visualization
+
+# Program Objective : get the course files from the server
 
 install.packages("usethis")
 # choose location for files by setting your working directory
