@@ -1,5 +1,5 @@
 # Data-Science
-Repository for data analytics, coursework and projects
+Repository for data analytics, coursework and projects <BR>
 This will be used for the MS in Data Science program at the University of Delaware
 
 MISY 631 - Business Intelligence and Analytics 
